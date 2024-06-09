@@ -1,1 +1,1 @@
-here you can create an rdp (remote desktop protocol), and just using the ngrok.com auth code you can create a free rdp
+Вы можете создать RDP с кодом, уже находящимся в main.yml не забудь использовать его ngrok.com
