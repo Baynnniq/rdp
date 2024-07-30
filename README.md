@@ -1,5 +1,9 @@
 Hello guy, this RDP lasts up to 5 hours, max 6 hours, thank you.
 
+
+## Announcement 
+Apparently, Ngrok now has to use a billing account to be able to use it.
+
 ## Note
 if the given ip hangs for a long time like this 
 
