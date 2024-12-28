@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+As you can see below, the version that supports security and is safe to use is actually all versions that are safe to use as long as you have a subscription on the ngrok.com website.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -14,8 +13,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+As for how to use it, I'll explain it another time.
