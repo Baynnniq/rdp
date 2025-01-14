@@ -20,5 +20,8 @@ it will be active for up to 6 hours, but if it is short it will only last 37 min
 ## Proof
 <a href="https://lh3.googleusercontent.com/pw/AP1GczMUf2o3dWKLOdy3t7OjC6Oa7EWjqR80lHFjfmQofu-pdLLrjlISpHzAybn5brqmaANvelR4yczVCqbWAnc9H0Z1mvbxMvYaMun2WeI1up7NWKvzZg=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczMUf2o3dWKLOdy3t7OjC6Oa7EWjqR80lHFjfmQofu-pdLLrjlISpHzAybn5brqmaANvelR4yczVCqbWAnc9H0Z1mvbxMvYaMun2WeI1up7NWKvzZg=w600-h315-p-k" /> </a>
 
+## discord.gg
+https://discord.gg/azuPNZNh62
+
 ## Contact Us
 you can contact me on the forum https://iteam075r.ct.ws
