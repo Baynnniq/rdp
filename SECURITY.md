@@ -4,7 +4,7 @@
 
 As you can see below, the version that supports security and is safe to use is actually all versions that are safe to use as long as you have a subscription on the ngrok.com website.
 
-| Version | Supported          | RECOMMENDED |
+| BRANCH | Supported          | RECOMMENDED |
 | ------- | ------------------ | ----------- |
 | main    | ✅                 |📌
 | Test-patch-v1.1   | :white_check_mark: |▶️
